@@ -1,6 +1,6 @@
 {
   "name" : "TrueSight Pulse Http Check Plugin",
-  "version" : "0.9.7",
+  "version" : "0.9.8",
   "meterVersionRequired" : "4.2.0-611",
   "unsupportedPlatforms" : [ ],
   "tags" : "http",
